@@ -1,0 +1,12 @@
+# Core
+numpy
+pandas
+pytest
+
+# ML/AI
+scikit-learn
+openai
+anthropic
+
+# Security/Simulation
+python-dotenv
